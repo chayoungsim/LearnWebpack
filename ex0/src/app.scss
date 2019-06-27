@@ -1,0 +1,15 @@
+$bg-color:#3b9994;
+$box-color:#ff88ae;
+body{
+  background: $bg-color;
+  .box{
+    background-color:$box-color;
+  }
+}
+
+.homeIcon{
+  height:100px;
+  width:100px;
+  background:url(./images/s-vs4.jpg);
+  background-repeat: no-repeat;
+}
